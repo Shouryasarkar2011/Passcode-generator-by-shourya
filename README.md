@@ -1,1 +1,1 @@
-the only password generator which has a char limit of infinite, now don't ask me that my it is not spawning 1000 character password, Bro see your system specs first of all cuz shit devices can't make it
+the only password generator which has a char limit of infinite, now don't ask me that why it is not spawning 1000 character password, Bro see your system specs first of all cuz shit devices can't make it
